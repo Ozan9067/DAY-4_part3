@@ -3,5 +3,7 @@ public class HelloTest {
         //ozan
         //za n
 
+        System.out.println("github published local");
+
     }
 }
